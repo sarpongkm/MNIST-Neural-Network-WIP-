@@ -13,8 +13,12 @@
 
 
 ## Dataset
-- Source: Kaggle Digit Recognizer (MNIST), 28×28 grayscale digits
-- `train.csv` must be placed in repo root or adjust path.
+
+This project uses the **Kaggle Digit Recognizer (MNIST)** dataset.
+
+- Download `train.csv` and `test.csv` from the Kaggle competition page:  
+   [https://www.kaggle.com/c/digit-recognizer/data](https://www.kaggle.com/c/digit-recognizer/data)
+
 
 
 ## Quickstart
